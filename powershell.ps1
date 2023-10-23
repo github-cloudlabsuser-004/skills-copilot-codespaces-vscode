@@ -1,4 +1,4 @@
-# Login to Azure
+c# Login to Azure
 Connect-AzAccount
 
 # Set variables
